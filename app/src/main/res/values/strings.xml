@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cure Her</string>
+
+    <string name="title_onboarding1">Best doctors</string>
+    <string name="title_onboarding2">Video consultation</string>
+    <string name="title_onboarding3">Easy appointments</string>
+    <string name="title_onboarding4">Regular follow ups</string>
+    <string name="title_onboarding5">Read blog posts</string>
+    <string name="description_onboarding1">Find the best women health specialists on your very own - the CureHer app.</string>
+    <string name="description_onboarding2">Live video consultation with the best women health specialists.</string>
+    <string name="description_onboarding3">Get your appointment done super fast and without any hassle.</string>
+    <string name="description_onboarding4">Get regular follow ups from the doctors on your health or mental issues.</string>
+    <string name="description_onboarding5">Read daily blog posts about women health and other related things.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_blogs">Blogs</string>
+    <string name="menu_community">Community</string>
+    <string name="menu_profile">Profile</string>
+
+</resources>

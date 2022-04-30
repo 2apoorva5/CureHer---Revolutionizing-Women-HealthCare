@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7341C5</color>
+    <color name="colorPrimaryDark">#7341C5</color>
+    <color name="colorAccent">#F875AA</color>
+
+    <color name="errorColor">#B71C1C</color>
+    <color name="infoColor">#0F4C81</color>
+    <color name="successColor">#4CAF50</color>
+
+    <color name="colorIconDark">@android:color/black</color>
+    <color name="colorIconLight">@android:color/white</color>
+    <color name="colorTextDark">@android:color/black</color>
+    <color name="colorTextLight">@android:color/white</color>
+
+    <color name="colorBackground">@android:color/white</color>
+    <color name="colorViews">#F1F1FF</color>
+    <color name="colorInactive">#89A3B2</color>
+
+    <color name="colorSelectedDate">#E6D00C</color>
+
+    <!--ImageChooser and Cropper Activity-->
+    <color name="dialog_choose_icon_color">@color/colorPrimary</color>
+    <color name="dialog_choose_text_color">@color/colorTextDark</color>
+    <color name="ucrop_color_toolbar">@color/colorBackground</color>
+    <color name="ucrop_color_statusbar">@color/colorBackground</color>
+    <color name="ucrop_color_widget_active">@color/colorPrimary</color>
+    <color name="ucrop_color_toolbar_widget">@color/colorPrimary</color>
+    <color name="ucrop_color_active_controls_color">@color/colorPrimary</color>
+    <color name="ucrop_color_inactive_controls_color">@color/colorInactive</color>
+    <color name="ucrop_color_widget_rotate_mid_line">@color/colorPrimary</color>
+    <color name="ucrop_color_active_aspect_ratio">@color/colorPrimary</color>
+    <color name="ucrop_color_widget_text">@color/colorPrimary</color>
+</resources>

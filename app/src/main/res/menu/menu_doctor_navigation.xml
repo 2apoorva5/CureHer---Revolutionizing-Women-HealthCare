@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/menu_edit_profile"
+            android:icon="@drawable/ic_edit"
+            android:title="Edit Profile" />
+        <item
+            android:id="@+id/menu_reviews"
+            android:icon="@drawable/ic_rate"
+            android:title="Reviews" />
+        <item
+            android:id="@+id/menu_appointments"
+            android:icon="@drawable/ic_calendar"
+            android:title="Appointments" />
+        <item
+            android:id="@+id/menu_notifications"
+            android:icon="@drawable/ic_notification"
+            android:title="Notifications" />
+    </group>
+
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/menu_write_us"
+            android:icon="@drawable/ic_write_us"
+            android:title="Write Us" />
+        <item
+            android:id="@+id/menu_rate_us"
+            android:icon="@drawable/ic_rate"
+            android:title="Rate us" />
+    </group>
+
+    <group android:id="@+id/group3">
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/ic_document"
+            android:title="About Us" />
+        <item
+            android:id="@+id/menu_privacy_policy"
+            android:icon="@drawable/ic_document"
+            android:title="Privacy Policy" />
+        <item
+            android:id="@+id/menu_terms_of_services"
+            android:icon="@drawable/ic_document"
+            android:title="Terms of Services" />
+    </group>
+
+    <group android:id="@+id/group4">
+        <item
+            android:id="@+id/menu_app_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="App Settings" />
+        <item
+            android:id="@+id/menu_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Log out" />
+    </group>
+
+</menu>
